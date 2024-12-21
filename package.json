@@ -1,5 +1,5 @@
 {
-  "name": "SSE-Next-Nest",
+  "name": "sse-next-nest",
   "private": true,
   "scripts": {
     "build": "turbo build",
